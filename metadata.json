@@ -1,0 +1,6 @@
+{
+  "name": "SIPADU CBT - Ujian Online Supabase & React",
+  "description": "Sistem Informasi Penilaian Terpadu & Computer Based Test (CBT) berbasis React, Supabase PostgreSQL, dan Vercel CI/CD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
